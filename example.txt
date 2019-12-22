@@ -1,0 +1,2 @@
+This is one new Git repo details.
+Test one
